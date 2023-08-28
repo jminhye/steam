@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 'pretandard', sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-normal);
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+em,
+strong,
+i,
+b {
+  font-style: normal;
+  font-weight: normal;
+}
+
+img {
+  display: block;
+}
+
+input,
+textarea,
+button,
+select,
+input::placeholder,
+textarea::placeholder {
+  border: none;
+  color: inherit;
+  font-family: 'pretendard';
+}

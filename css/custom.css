@@ -1,0 +1,23 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
+
+:root {
+  /* color */
+  --primary-light: #50b6ff;
+  --primary-normal: #1a9fff;
+  --primary-strong: #008ef5;
+  --primary-heavy: #0083e1;
+
+  --status-alert: #eb5147;
+  --status-caution: #fa9538;
+  --status-position: #3dc061;
+
+  --text-strong: #ffffff;
+  --text-normal: #f7f7f7;
+  --text-alternative: #a5a5a5;
+  --text-assitive: #656565;
+  --text-disable: #3a3a3a;
+
+  --bg-primary: #0f0f0f;
+  --bg-secondary: #1e1e1e;
+  --bg-tertiary: #333333;
+}
